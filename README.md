@@ -44,7 +44,7 @@ Evaluar y alinear automáticamente la transcripción de audios con los segmentos
 ---
 
 ## 📁 Estructura del Proyecto
-
+Proyecto/
 ├── Audios/wav/ # Audios en formato .wav (convertidos desde .mp3 si es necesario)
 ├── Audios/mp3/ # Audios originales en formato .mp3 (opcional)
 ├── Resultados/ # Archivos de salida (TextGrid, HTML, TXT)
@@ -55,7 +55,6 @@ Evaluar y alinear automáticamente la transcripción de audios con los segmentos
 ├── ProyectoMachinUtils.py # Funciones auxiliares (transcripción, VAD, alineación, errores)
 ├── transcription_utils.py # Transcripción por fragmento de tiempo
 ├── README.md # Este documento
-└── requirements.txt # Dependencias necesarias
 
 ## Verificación
 
