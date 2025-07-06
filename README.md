@@ -44,17 +44,18 @@ Evaluar y alinear automáticamente la transcripción de audios con los segmentos
 ---
 
 ## 📁 Estructura del Proyecto
+
 Proyecto/
-├── Audios/wav/ # Audios en formato .wav (convertidos desde .mp3 si es necesario)
-├── Audios/mp3/ # Audios originales en formato .mp3 (opcional)
-├── Resultados/ # Archivos de salida (TextGrid, HTML, TXT)
-│ ├── archivo.TextGrid # Contiene tiers IPU, Transc y TranscErrors
-│ ├── archivo.html # Transcripción completa
-│ └── archivo_errores.txt # Segmentos con desajustes fonéticos
-├── ProyectoMachin.py # Script principal del procesamiento en lote
-├── ProyectoMachinUtils.py # Funciones auxiliares (transcripción, VAD, alineación, errores)
-├── transcription_utils.py # Transcripción por fragmento de tiempo
-├── README.md # Este documento
+├── Audios/wav/ # Audios en formato .wav (convertidos desde .mp3 si es necesario)  
+├── Audios/mp3/ # Audios originales en formato .mp3 (opcional)  
+├── Resultados/ # Archivos de salida (TextGrid, HTML, TXT)  
+│ ├── archivo.TextGrid # Contiene tiers IPU, Transc y TranscErrors  
+│ ├── archivo.html # Transcripción completa  
+│ └── archivo_errores.txt # Segmentos con desajustes fonéticos  
+├── ProyectoMachin.py # Script principal del procesamiento en lote  
+├── ProyectoMachinUtils.py # Funciones auxiliares (transcripción, VAD, alineación, errores)  
+├── transcription_utils.py # Transcripción por fragmento de tiempo  
+├── README.md # Este documento  
 
 ## Verificación
 
