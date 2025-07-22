@@ -1,0 +1,10 @@
+Inicio	Fin	Descripción
+0.60	8.10	Desajuste fonético
+13.62	23.19	Desajuste fonético
+304.77	305.07	Desajuste fonético
+445.38	446.67	Desajuste fonético
+455.16	455.73	Desajuste fonético
+515.13	536.61	Desajuste fonético
+674.82	676.20	Desajuste fonético
+699.27	699.60	Desajuste fonético
+817.71	832.86	Desajuste fonético
